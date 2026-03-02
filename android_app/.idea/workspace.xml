@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d26ede66-a579-4764-82d6-50fcdb31bd63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ocr_debug/page_1_preprocessed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ocr_debug/page_1_preprocessed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ocr_debug/page_2_preprocessed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ocr_debug/page_2_preprocessed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ocr_debug/page_3_preprocessed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ocr_debug/page_3_preprocessed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ocr_debug/page_4_preprocessed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ocr_debug/page_4_preprocessed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ocr_debug/page_5_preprocessed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ocr_debug/page_5_preprocessed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ocrProcessor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/ocrProcessor.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3ANOc7K9Tuk3NC3b31DcUnBpdU7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/msrihanrao/projects/pdf_reader/android_app",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.customization.CustomizationConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d26ede66-a579-4764-82d6-50fcdb31bd63" name="Changes" comment="" />
+      <created>1772429638943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772429638943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
